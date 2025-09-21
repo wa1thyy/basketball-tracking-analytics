@@ -44,7 +44,7 @@ python -m venv .venv
 # Install dependencies
 pip install -r requirements.txt
 ```
-▶️ Usage
+##▶️ Usage
 Run player tracking
 bash
 Копировать код
@@ -53,12 +53,12 @@ Generate heatmap
 bash
 Копировать код
 python -m scripts.make_heatmap --input data/processed/tracked.mp4
-📊 Example Results
+##📊 Example Results
 Player Tracking
 
 Heatmap
 
-🎯 Project Goal
+##🎯 Project Goal
 This project was developed to demonstrate skills in:
 
 Computer Vision (YOLOv8, OpenCV)
@@ -66,6 +66,7 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
 
 
 
