@@ -10,7 +10,7 @@ The system automatically **detects basketball players**, assigns **unique tracki
 - Heatmap generation for activity analysis  
 
 ## 📂 Project Structure
-
+```plaintext
 player-tracker/
 │
 ├── src/                  # Core modules
@@ -29,6 +29,7 @@ player-tracker/
 │
 ├── requirements.txt      # Dependencies
 └── README.md             # Project description
+
 
 ## ⚡ Installation
 ``bash
@@ -64,4 +65,5 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
 
