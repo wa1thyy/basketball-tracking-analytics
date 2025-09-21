@@ -29,10 +29,10 @@ player-tracker/
 │
 ├── requirements.txt      # Dependencies
 └── README.md             # Project description
-
+```
 
 ## ⚡ Installation
-``bash
+```bash
 # Clone the repository
 git clone https://github.com/wa1thyy/basketball-tracking-analytics.git
 cd basketball-tracking-analytics
@@ -65,5 +65,6 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
 
 
