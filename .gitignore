@@ -1,0 +1,6 @@
+.venv/
+*.pt
+*.mp4
+data/processed/
+__pycache__/
+
