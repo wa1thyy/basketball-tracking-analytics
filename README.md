@@ -65,6 +65,12 @@ Data Analysis & Visualization
 
 Applied AI for Sports Analytics
 
+# Heatmap and screenshots
+
+<img width="950" height="543" alt="heatmap" src="https://github.com/user-attachments/assets/6e13ba0b-476d-4914-b5a1-97b0e039c7c5" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f44df0a-4a85-4954-977d-bb262b95a809" />
+
 
 
 
