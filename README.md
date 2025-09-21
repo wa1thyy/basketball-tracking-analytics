@@ -43,6 +43,7 @@ python -m venv .venv
 
 # Install dependencies
 pip install -r requirements.txt
+```
 ▶️ Usage
 Run player tracking
 bash
@@ -65,6 +66,7 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
 
 
 
