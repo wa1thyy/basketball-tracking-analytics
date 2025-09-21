@@ -71,6 +71,12 @@ Applied AI for Sports Analytics
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f44df0a-4a85-4954-977d-bb262b95a809" width="600"/>
 
+## 🎥 Demo
+
+![demo](https://github.com/user-attachments/assets/bc54536e-09f9-4ee4-a7cc-dbc2226dd4d0)
+
+
+
 
 
 
