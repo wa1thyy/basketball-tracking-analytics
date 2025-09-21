@@ -10,27 +10,25 @@ The system automatically **detects basketball players**, assigns **unique tracki
 - Heatmap generation for activity analysis  
 
 ## 📂 Project Structure
+
 player-tracker/
 │
-├── src/ # Core modules
-│ ├── detect.py # Player detection (YOLOv8)
-│ ├── track.py # Multi-object tracking
-│ └── heatmap.py # Heatmap generation
+├── src/                  # Core modules
+│   ├── detect.py         # Player detection (YOLOv8)
+│   ├── track.py          # Multi-object tracking
+│   └── heatmap.py        # Heatmap generation
 │
-├── scripts/ # Example scripts
-│ ├── test_track_video.py # Run tracking on video
-│ ├── test_detect_video.py # Run detection only
-│ └── make_heatmap.py # Generate heatmap from tracked video
+├── scripts/              # Example scripts
+│   ├── test_track_video.py   # Run tracking on video
+│   ├── test_detect_video.py  # Run detection only
+│   └── make_heatmap.py       # Generate heatmap from tracked video
 │
 ├── data/
-│ ├── raw/ # Input videos
-│ └── processed/ # Processed results
+│   ├── raw/              # Input videos
+│   └── processed/        # Processed results
 │
-├── requirements.txt # Dependencies
-└── README.md # Project description
-
-bash
-Копировать код
+├── requirements.txt      # Dependencies
+└── README.md             # Project description
 
 ## ⚡ Installation
 ``bash
@@ -66,3 +64,4 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
