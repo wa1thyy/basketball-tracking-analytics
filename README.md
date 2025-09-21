@@ -55,10 +55,6 @@ bash
 Копировать код
 python -m scripts.make_heatmap --input data/processed/tracked.mp4
 ```
-📊 Example Results
-Player Tracking
-
-Heatmap
 
 # 🎯 Project Goal
 This project was developed to demonstrate skills in:
@@ -68,6 +64,7 @@ Computer Vision (YOLOv8, OpenCV)
 Data Analysis & Visualization
 
 Applied AI for Sports Analytics
+
 
 
 
