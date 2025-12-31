@@ -1,15 +1,15 @@
-# 🏀 Basketball Tracking & Analytics
+# Basketball Tracking & Analytics
 
 This project demonstrates how **computer vision** can be applied to sports analytics.  
 The system automatically **detects basketball players**, assigns **unique tracking IDs**, and generates **heatmaps** to visualize movement patterns on the court.
 
-## 🚀 Features
+## Features
 - Player detection using YOLOv8  
 - Multi-object tracking with consistent IDs  
 - Processed game footage with bounding boxes and IDs  
 - Heatmap generation for activity analysis  
 
-## 📂 Project Structure
+## Project Structure
 ```plaintext
 player-tracker/
 │
@@ -31,7 +31,7 @@ player-tracker/
 └── README.md             # Project description
 ```
 
-## ⚡ Installation
+## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/wa1thyy/basketball-tracking-analytics.git
@@ -44,7 +44,7 @@ python -m venv .venv
 # Install dependencies
 pip install -r requirements.txt
 ```
-# ▶️ Usage
+# Usage
 ```
 Run player tracking
 bash
@@ -56,7 +56,7 @@ bash
 python -m scripts.make_heatmap --input data/processed/tracked.mp4
 ```
 
-# 🎯 Project Goal
+# Project Goal
 This project was developed to demonstrate skills in:
 
 Computer Vision (YOLOv8, OpenCV)
@@ -71,9 +71,10 @@ Applied AI for Sports Analytics
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f44df0a-4a85-4954-977d-bb262b95a809" width="600"/>
 
-## 🎥 Demo
+##  Demo
 
 ![demo](https://github.com/user-attachments/assets/bc54536e-09f9-4ee4-a7cc-dbc2226dd4d0)
+
 
 
 
